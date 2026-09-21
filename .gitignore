@@ -2,3 +2,4 @@ data/
 venv/
 *.duckdb
 .ipynb_checkpoints/
+.DS_Store
