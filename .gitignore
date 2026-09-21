@@ -3,3 +3,4 @@ venv/
 *.duckdb
 .ipynb_checkpoints/
 .DS_Store
+anaconda_projects/
